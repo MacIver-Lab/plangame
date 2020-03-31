@@ -294,6 +294,6 @@
   "goalSprite": "savanna_goal",
   "preySprite": "savanna_prey",
   "predatorSprite": "savanna_predator",
-  "wallSprite": "savanna_wall",
+  "wallSprite": "bush",
   "tileSprite": "savanna_tile"
 }
