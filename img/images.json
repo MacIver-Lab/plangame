@@ -13,7 +13,7 @@
   },
   {
     "name": "savanna_wall",
-    "url": "img/Game_Savanna_Obstacle.png"
+    "url": "img/Game_Savanna_Bush.png"
   },
   {
     "name": "savanna_goal",
@@ -49,7 +49,7 @@
   },
   {
     "name": "bush",
-    "url": "img/bush.png"
+    "url": "img/Game_Savanna_Bush.png"
   },
   {
     "name": "coral",
