@@ -1,0 +1,90 @@
+[
+  {
+    "name": "tile",
+    "url": "img/tile.png"
+  },
+  {
+    "name": "savanna_prey",
+    "url": "img/Game_Savanna_HumanV2.png"
+  },
+  {
+    "name": "savanna_predator",
+    "url": "img/Game_Savanna_Lion2.png"
+  },
+  {
+    "name": "savanna_wall",
+    "url": "img/Game_Savanna_Obstacle.png"
+  },
+  {
+    "name": "savanna_goal",
+    "url": "img/Game_Savanna_Home.png"
+  },
+  {
+    "name": "left_arrow",
+    "url": "img/Game_Menu_LeftButton.png"
+  },
+  {
+    "name": "right_arrow",
+    "url": "img/Game_Menu_RightButton.png"
+  },
+  {
+    "name": "background",
+    "url": "img/Game_Menu_Background.png"
+  },
+  {
+    "name": "cave",
+    "url": "img/Game_Water_Home.png"
+  },
+  {
+    "name": "fish",
+    "url": "img/Game_Water_Clownfish.png"
+  },
+  {
+    "name": "shark",
+    "url": "img/Game_Water_Shark.png"
+  },
+  {
+    "name": "tree",
+    "url": "img/Game_Jungle_Obstacles.png"
+  },
+  {
+    "name": "bush",
+    "url": "img/bush.png"
+  },
+  {
+    "name": "coral",
+    "url": "img/Game_Water_Obstacle.png"
+  },
+  {
+    "name": "hut",
+    "url": "img/Game_Jungle_Banana.png"
+  },
+  {
+    "name": "boar",
+    "url": "img/Game_Jungle_Monkey.png"
+  },
+  {
+    "name": "leopard",
+    "url": "img/Game_Jungle_Leopard.png"
+  },
+  {
+    "name": "water_tile",
+    "url": "img/Game_Water_Background.png"
+  },
+  {
+    "name": "jungle_tile",
+    "url": "img/Game_Jungle_Background.png"
+  },
+  {
+    "name": "savanna_tile",
+    "url": "img/Game_Savanna_background.png"
+  },
+  {
+    "name": "white_circle",
+    "url": "img/white_circle.png"
+  },
+  {
+	"name":"test",
+	"url": "img/Game_Savanna_background.png"
+  }
+]

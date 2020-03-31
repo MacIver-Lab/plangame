@@ -1,0 +1,10 @@
+[
+  { "name": "open waters",
+    "file": "aquatic.json" },
+  { "name": "coral reef",
+    "file": "coral_reef.json" },
+  { "name": "jungle",
+    "file": "jungle.json" },
+  { "name": "savanna",
+    "file": "savanna.json" }
+]

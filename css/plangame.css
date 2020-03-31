@@ -1,0 +1,17 @@
+#content{
+    content: "";
+    display: block;
+    clear: both;
+    height: 100%;
+}
+#game-div{
+
+}
+#joystick-div{
+}
+
+div{
+    float:left;
+    height:100%;
+    padding:0 0px;
+}
