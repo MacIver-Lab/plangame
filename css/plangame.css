@@ -3,6 +3,7 @@
     display: block;
     clear: both;
     height: 100%;
+    background-color: white;
 }
 #game-div{
     
@@ -14,4 +15,5 @@ div{
     float:left;
     height:100%;
     padding:0 0px;
+    background-color: white;
 }
