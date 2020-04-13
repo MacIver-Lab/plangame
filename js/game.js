@@ -1,6 +1,6 @@
 let game;
 window.onload = function () {
-     document.body.style.backgroundColor = "#a0a0a0";
+     document.body.style.backgroundColor = "#ffffff"; //"#a0a0a0";
      setTimeout(start,500);
 };
 
