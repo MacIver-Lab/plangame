@@ -3,10 +3,9 @@
     display: block;
     clear: both;
     height: 100%;
-    background-color:#fff;
 }
 #game-div{
-    background-color:#fff;
+    
 }
 #joystick-div{
 }
@@ -15,5 +14,4 @@ div{
     float:left;
     height:100%;
     padding:0 0px;
-    background-color: white;
 }
